@@ -4,7 +4,7 @@ Google App Engine Go-lang Static Server
 A basic barebones static file server for Google App Engine's Go service
 
 Read the associated blog here:
-
+http://blog.extramaster.net/2014/05/creating-static-server-in-go-for-google.html
 
 Visit the demo site:
 http://gostatic.extramaster.net/
